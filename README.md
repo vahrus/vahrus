@@ -98,7 +98,7 @@
 
 ## 📩 Связаться со мной
 
-- Telegram: *@a_vahrus*
+- Telegram: *https://t.me/a_vahrus*
 - Email: *dev.vahrus@gmail.com*
 
 ---
